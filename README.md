@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**PierreMasselot1/PierreMasselot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pierre Masselot, a computer engineering student at McGill University.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: 
+   - a [multi-material upgrade for 3D printers](https://github.com/PierreMasselot1/Material-Switching-Unit)
+    - an [STL file hosting website](https://github.com/PierreMasselot1/STLstuff)
+- 🌱 I’m currently learning:
+    - PostgreSQL
+    - Express
+    - NodeJS
+    - React
+![](https://github.com/PierreMasselot1/github-stats/blob/master/generated/overview.svg)
