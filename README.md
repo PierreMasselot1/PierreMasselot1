@@ -10,4 +10,5 @@ I'm Pierre Masselot, a computer engineering student at McGill University.
     - Express
     - NodeJS
     - React
-![](https://github.com/PierreMasselot1/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/PierreMasselot1/githubstats/blob/master/generated/overview.svg)
+![](https://github.com/PierreMasselot1/githubstats/blob/master/generated/overview.svg)
