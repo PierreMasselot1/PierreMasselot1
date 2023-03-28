@@ -8,5 +8,3 @@ I'm Pierre Masselot, a computer engineering student at McGill University.
    - a filament extruder
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PierreMasselot1&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![](https://github.com/PierreMasselot1/githubstats/blob/master/generated/overview.svg)
